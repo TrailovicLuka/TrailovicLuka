@@ -6,7 +6,8 @@
 <html>
   <header></header>
   <body>
-  <img src="https://raw.githubusercontent.com/uakp98/uakp98/main/img/pl/js.png" width='15pz' height='15px'>
+    <h1>I'm leraning </h1>
+  <img src="https://raw.githubusercontent.com/uakp98/uakp98/main/img/pl/js.png" width='20px' height='20px'>
   
   
   </body>
