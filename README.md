@@ -24,7 +24,7 @@
            </li>
       <li>
     <p><strong>Database :</strong></p>
-    <span>  <img src="https://raw.githubusercontent.com/uakp98/uakp98/main/img/db/mysql1.png" width='50px' height='50px'>
+    <span>  <img src="https://raw.githubusercontent.com/uakp98/uakp98/main/img/db/mysql1.png" width='80px' height='50px'>
             <img src="https://raw.githubusercontent.com/uakp98/uakp98/main/img/db/oracle.png" width='80px' height='50px'>
   </span>
        </li>
