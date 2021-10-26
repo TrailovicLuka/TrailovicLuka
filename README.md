@@ -3,8 +3,14 @@
 - 🌱 I’m currently learning PHP and JavaScript
 - 💞️ I’m looking to collaborate on a project to learn something new and improve it 
 - 📫 You can reach me on my email : luka.trailovic@outlook.com
+<html>
+  <header></header>
+  <body>
+  <img src="https://raw.githubusercontent.com/uakp98/uakp98/main/img/pl/js.png">
+  
+  
+  </body>
 
-<!---
-TrailovicLuka/TrailovicLuka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+</html>
+
+
