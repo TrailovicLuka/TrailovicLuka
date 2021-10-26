@@ -6,6 +6,7 @@
 <html>
   <header></header>
   <body>
+    <h2> function Technology() { </h2>
       <ul>
     <li>
 <span>    <p><strong>Front-end/UI:</strong></p>
@@ -28,7 +29,7 @@
   </span>
        </li>
        </ul>
-  
+      <h2>}</h2>
   
   </body>
 
