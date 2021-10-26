@@ -6,7 +6,7 @@
 <html>
   <header></header>
   <body>
-  <img src="https://raw.githubusercontent.com/uakp98/uakp98/main/img/pl/js.png">
+  <img src="https://raw.githubusercontent.com/uakp98/uakp98/main/img/pl/js.png" width='15pz' height='15px'>
   
   
   </body>
